@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# JSON files (holds USPTO dataset - ~400 GB)
+*.json
+
+# Sandbox files
+sandbox/*
