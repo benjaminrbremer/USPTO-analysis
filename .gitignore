@@ -175,3 +175,6 @@ cython_debug/
 
 # Sandbox files
 sandbox/*
+
+# PyCharm .idea folder
+.idea/*
